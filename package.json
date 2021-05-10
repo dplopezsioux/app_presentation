@@ -1,0 +1,22 @@
+{
+  "name": "app_presentation",
+  "version": "1.0.0",
+  "description": "resumen presentation",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dplopezsioux/app_presentation.git"
+  },
+  "author": "dplopez.sioux@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dplopezsioux/app_presentation/issues"
+  },
+  "homepage": "https://github.com/dplopezsioux/app_presentation#readme"
+}
